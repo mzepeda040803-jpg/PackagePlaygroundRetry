@@ -1,4 +1,4 @@
 package UI;
 
-public class UserInterface {
+public interface UserInterface {
 }
